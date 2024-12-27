@@ -41,3 +41,18 @@ img {
   background-position: center;
   background-repeat: no-repeat;
 }
+.txt-1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.text-bg {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 2rem 3rem;
+}
